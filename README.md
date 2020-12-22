@@ -20,3 +20,4 @@ ASCII character set in GT23L32S4W font chip includes 96 characters only.
 #define ASCIIAdd_8X16 0x1DD780
 #define ASCIIAdd_12X24  0x1DFF00
 #define ASCIIAdd_16X32  0x1E5A50
+
